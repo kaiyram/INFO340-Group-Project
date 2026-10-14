@@ -1,4 +1,6 @@
 # INFO340-Group-Project
 
 ## Team Members
-- Samyak Shrestha
+Samyak Shrestha
+Kai Yramategui
+Aisha Abdulkarim
